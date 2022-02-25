@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and wonderful news from Norwich the like not in all England besides, in a letter from Norwich, to a friend in London.</title>
+            <author>T. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65423</idno>
+            <idno type="STC">Wing W132</idno>
+            <idno type="STC">ESTC R3318</idno>
+            <idno type="EEBO-CITATION">12630819</idno>
+            <idno type="OCLC">ocm 12630819</idno>
+            <idno type="VID">64755</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64755)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 678:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and wonderful news from Norwich the like not in all England besides, in a letter from Norwich, to a friend in London.</title>
+                  <author>T. W.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Signed: T.W.</note>
+                  <note>Caption title.</note>
+                  <note>Addresses by the citizenry of Norwich and of Yorkshire to their members of Parliament urging more stringent legislation against Catholics &amp; the possibility of Catholic succession.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Norwich (England) --  History.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:64755:1" rendition="simple:additions"/>
+            <head>Strange and Wonderful NEWS FROM NORWICH: <hi>The like not in all</hi> ENGLAND <hi>beſides.</hi>
+            </head>
+            <head type="sub">In a Letter from <hi>Norwich,</hi> to a Friend in <hi>London.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Doubt not but you have heard of the Red hot Zeal of our Town. We are altogether for advancing the <hi>Proteſtant Religion;</hi> in order to which (tho' I do not remember <hi>one Papiſt</hi> Convicted here theſe ſeven years) We <hi>tick<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e off</hi> the <hi>Non Cons,</hi> and that which makes Father <hi>L.</hi> Laugh in's ſleeve, is to ſee the <hi>Hereticks</hi> ſo ſmartly Laſkt with the ſame Rods, that were provi<g ref="char:EOLhyphen"/>ded for <hi>Catholicks</hi> Backs. — But enough of that — We lately Elected Members here to ſerve next <hi>Parliament,</hi> and ſure no Body will blame us for chu<g ref="char:EOLhyphen"/>ſing thoſe that ſerv'd us ſo well in the laſt; for you muſt note, we hate <hi>Abhorrers.</hi> And tho we like <hi>Religio Med<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ci</hi> very well, preſented them an Addreſs againſt Po<g ref="char:EOLhyphen"/>pery; Which (tho <hi>forty</hi> to <hi>one</hi> but you have it in the next <hi>Gazette</hi>) I here ſend you, perhaps you'l look for ſome mention of the <hi>Popiſh Plot</hi> and <hi>Succeſſor</hi> and <hi>20</hi> other odd things in it: But I'le aſſure you, That's the fault of the <hi>Scribe,</hi> who ſat up a little too late drinking the <hi>Dukes Health,</hi> and ſo clearly forgot them. However you may ſee We are free enough of our <hi>Money,</hi> and that's one Symptome of <hi>Good-Nature,</hi> though in Truth we do but put out this Complement to uſury: For We hope (if Fawning and Wagging the Tail will do it) to ſee are long the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> appointed at the <hi>Loyal City of Norwich;</hi> where to entertain them I'le aſſure you we have a pack of <hi>Sermon-readers</hi> can worry a <hi>Text</hi> as ſhrewdly as any at <hi>Briſtol, Chicheſter</hi> or <hi>Ludgate</hi> it ſelf, yet still you are not bound by the Canon to Believe that this <hi>whole</hi> City joyned in this Addreſs, for there was a <hi>ſmall parcel</hi> of about <hi>2000</hi> that never heard on't; but its enough, 'twas under <hi>Common Seal,</hi> and done by thoſe that <hi>Rule the Roaſt,</hi> and you know the <hi>Giblets</hi> generally go with the <hi>Gooſe;</hi> however I ſend it you (as people ſhew Monſters) for a <hi>Rarity,</hi> being confident all <hi>England</hi> cannot ſhew the like, except the Worſhipful Burough of <hi>Crickland</hi> put in for a ſnack; Oh happy <hi>Popiſh Succeſſor!</hi> that has at leaſt <hi>250</hi> little People in a whole Kingdom, that dare eſpouſe his Intereſt! My Service to your good Lady, and our Conntry man <hi>Roger,</hi> who I hear is come again, and Reprinting his <hi>Ca<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e</hi> with <hi>Additions,</hi>
+                  </p>
+                  <closer>
+                     <signed>I am your Humble Servant <hi>T. W.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Right Honourable the Lord <hi>Paſton,</hi> an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Auguſtine Briggs</hi> Eſq the moſt cordial ſence of the truly Loyal Freemen and Citizens of the ſaid City, ſubmitted to their prudent Conſiderations, by and with the conſent of th Common Councel of the ſame City, declared under the Common Seal.</head>
+                  <p>VVE do with all Gratitude, return you our moſt hearty Thanks for your great and indefatigable Care in the Service of His Majeſty and your Country as our Re<g ref="char:EOLhyphen"/>preſentatives in the late Parliament, not doubting but you did faithfully and worthily diſcharge the Truſt repoſed in you by the Electors. Therefore we do earneſtly deſire, ſeeing you are again Choſen to ſerve in the enſuing Parliament, That you would with all Cheerfulneſs and Earneſtneſs, endeavour to the utmoſt of your pow<g ref="char:EOLhyphen"/>er to preſerve his Majeſties Perſon and Government both in Church and State, as it is now by Law eſtabliſhed.</p>
+                  <pb facs="tcp:64755:2"/>
+                  <p>And we not only deſire your endeavours to deſend his Majeſties Perſon and Eſtabliſhed Government, but alſo his Honour and Gran<g ref="char:EOLhyphen"/>deur, as well by Puniſhing and Suppreſſing all Seditious and Scan<g ref="char:EOLhyphen"/>dalous Libellers of his Perſon and Government, as alſo by Granting his Majeſty ſuch ſuitable Supplies, as his urgent Occaſions ſhall re<g ref="char:EOLhyphen"/>quire, which we hope may be an effectual means to ſecure this Na<g ref="char:EOLhyphen"/>tion from Popery and Faction.</p>
+                  <p>And laſtly, We moſt Humbly deſire you to become Humble Suitors to His Majeſty, for the continuance of his Favour towards, and good Opinion of his Loyal and Obedient Subjects and Citizens of <hi>Norwich,</hi> and to aſſure his moſt gracious Majeſty that we do reſolve to ſtand by Him, his Heirs and Lawful Succeſſors with our Lives and Fortunes againſt all Oppoſitions and Pretenſions whatſoever, as we are ob<g ref="char:EOLhyphen"/>liged by our Allegiance.</p>
+               </body>
+            </floatingText>
+            <p>BUT all People are not of one mind, and therefore to pleaſe as ma<g ref="char:EOLhyphen"/>ny as we can, we ſhall here add the Addreſs of that Great and Loyal County of <hi>YORK,</hi> to the Right Honourable Perſons by them Elected Kts. of the Shire, for the approaching Parliament, as follows.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Right Honorable <hi>Charles</hi> Lord <hi>Clifford,</hi> and <hi>Henry</hi> Lord <hi>Fairfax.</hi>
+                  </head>
+                  <opener>
+                     <salute>May it pleaſe your Lordſhips.</salute>
+                  </opener>
+                  <p>THE Aſſurances we had of your Fidelity and Activity for the Service of our King and Country, in the Parliament began at <hi>Weſtminſter,</hi> the ſixth of <hi>March</hi> 1678. was the only rea<g ref="char:EOLhyphen"/>ſon of our Choice of you to repreſent us in the laſt Parlia<g ref="char:EOLhyphen"/>ment, and our Experience of your Faithfulneſs and Diligence in the ſame Service, the laſt Parliament, is the only ground of our uncon<g ref="char:EOLhyphen"/>tradicted Choice of you again this day, into the ſame Truſt, for the enſuing Parliament, and we judge it our Duty, as good Proteſtants, Loyal Subjects and true Engliſh-men, not only to expreſs our hear<g ref="char:EOLhyphen"/>ty concurrence with you in, but alſo to return you our real and publick Thanks, for the many good things you did and were about to do, in both the laſt Parliaments, and more eſpecially for your ſeaſonable Addreſs to his Majeſty, your neceſſary Votes, Reſoluti<g ref="char:EOLhyphen"/>ons, Orders and Bills, whereby you have endeavoured
+<list>
+                        <item>1. To preſerve the Proteſtant Religion, his Majeſties Perſon, and the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> from the many Dangers which threaten them.</item>
+                        <item>2. To Exclude a Popiſh Succeſſor.</item>
+                        <item>3. To Unite all his Majeſties Proteſlant Subjects.</item>
+                        <item>4. To purge out the Corruptions which abound, in the Election of Members to ſerve in Parliament; and</item>
+                        <item>5. To ſecure us for the future againſt Popery and Arbitrary Pow<g ref="char:EOLhyphen"/>er, and we entreat you to proceed in a Parliamentary way to the accompliſhment of theſe excellent things; and we aſſure you that theſe things being done, we ſhall with great chearfulneſs be willing to ſupply his Majeſty, to the utmoſt of our Abilities with Money, for the ſecuring of his Intereſt, both at home and abroad.</item>
+                     </list>
+                  </p>
+               </body>
+            </floatingText>
+            <p>This Paper was preſented to the Lords above-named, when they were Elected Knights for <hi>York-ſhire,</hi> 
+               <date>laſt <hi>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nday</hi> 28th. of <hi>Febr.</hi>
+               </date> in the Caſtle at <hi>York,</hi> which being publickly read, there was mighty Acclamations, fully teſtifying the <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſal conſent of the Gentlemen and Freeholders.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
